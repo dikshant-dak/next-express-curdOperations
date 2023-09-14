@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Encode Sans Expanded',sans-serif;
+}
+
+.json-data {
+    font-family: monospace; 
+    white-space: pre-wrap; 
+  }
